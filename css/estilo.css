@@ -2,7 +2,7 @@
     width: 50px;
 } */
 
-.social :hover{
+.efeito:hover{
     /* color: #0d6efd; */
     transform: scale(1.0); 
     box-shadow: 2px 3px 5px 3px rgb(121, 119, 119)
