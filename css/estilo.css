@@ -1,0 +1,13 @@
+/* .icon{
+    width: 50px;
+} */
+
+.social :hover{
+    /* color: #0d6efd; */
+    transform: scale(1.0); 
+    box-shadow: 2px 3px 5px 3px rgb(121, 119, 119)
+ }
+
+/* .bs: :active{
+    box-shadow: 3px 5px 5px rgb(121, 119, 119)
+} */
